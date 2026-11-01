@@ -2,9 +2,7 @@
 
 This repository accompanies ongoing research on machine translation (MT) for Hong Kong Hakka.
 
-Currently, we are focusing on the use of interlinear glosses as intermediate representations in chain-of-thought (CoT) fine-tuning.
-
-The research investigates the effectiveness of gloss-based CoT fine-tuning for low-resource MT, comparing it with conventional bilingual fine-tuning.
+Currently, we are focusing on the use of interlinear glosses as intermediate representations in chain-of-thought (CoT) fine-tuning. Our research investigates the effectiveness of gloss-based CoT fine-tuning for low-resource MT, comparing it with conventional bilingual fine-tuning.
 
 ## Conference Presentation
 
