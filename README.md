@@ -6,7 +6,7 @@ Currently, we are focusing on the use of interlinear glosses as intermediate rep
 
 ## Conference Presentation
 
-**Sinica LLU 2026**  
+**LLU 2026**  
 11–12 November 2026  
 Academia Sinica, Taipei, Taiwan
 
