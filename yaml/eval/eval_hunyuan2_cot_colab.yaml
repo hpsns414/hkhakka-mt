@@ -1,0 +1,33 @@
+model_name_or_path: tencent/Hy-MT2-7B
+adapter_name_or_path: /content/outputs/hunyuan2
+
+### method
+stage: sft
+do_train: false
+do_eval: false
+do_predict: true
+finetuning_type: lora
+
+### dataset
+eval_dataset: cot_igt_test
+dataset_dir: /content/LlamaFactory/data
+template: hy_dense_7b
+cutoff_len: 2048
+max_samples: 82
+overwrite_cache: true
+preprocessing_num_workers: 16
+
+### quantization
+quantization_bit: 4
+quantization_method: bnb
+fp16: true
+
+### output
+output_dir: /content/outputs/hunyuan2_cot_predict
+overwrite_output_dir: true
+
+### eval
+per_device_eval_batch_size: 1
+predict_with_generate: true
+do_sample: false
+ddp_timeout: 180000000

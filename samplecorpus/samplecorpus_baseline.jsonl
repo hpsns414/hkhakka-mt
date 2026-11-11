@@ -1,0 +1,2 @@
+{"messages": [{"role": "system", "content": "把下面的文本翻譯成繁體中文，不要額外解釋。"}, {"role": "user", "content": "<hak>傻傻子唔好喊佢轉來睡轉來住喇</hak>"}, {"role": "assistant", "content": "<zh-Hant>傻傻的就不要叫他回來睡 回來住了</zh-Hant>"}]}
+{"messages": [{"role": "system", "content": "把下面的文本翻譯成繁體中文，不要額外解釋。"}, {"role": "user", "content": "<hak>吖陳生好鍾意食這埞嘅煲仔飯嘅</hak>"}, {"role": "assistant", "content": "<zh-Hant>陳先生很喜歡吃這裏的煲仔飯的</zh-Hant>"}]}

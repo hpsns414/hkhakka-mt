@@ -13,3 +13,5 @@ Academia Sinica, Taipei, Taiwan
 ## Repository Status
 
 Supplementary research materials are being prepared and will be made available here accordingly.
+
+The YAML files provide representative configurations for training and evaluation. Model-specific parameters and dataset names vary across experiments.
